@@ -1,2 +1,2 @@
 # Gallery Panel
-[Demo Code](https://gallery-panel.netlify.app/)
+<a href="https://gallery-panel.netlify.app/" target="_blank">Demo Code</a>
