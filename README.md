@@ -1,4 +1,5 @@
 # Gallery Panel
+A simply gallery panel
 ### What did i use?
 <ul>
   <li>CSS</li>
